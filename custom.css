@@ -1,0 +1,7 @@
+.carousel.carousel-slider {
+  padding-bottom: 60px;
+}
+
+.carousel .control-dots {
+  bottom: -10px
+}
